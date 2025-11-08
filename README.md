@@ -33,8 +33,6 @@ Discord configurations :
 <img width="944" height="950" alt="Capture d&#39;écran 2025-11-07 103901" src="https://github.com/user-attachments/assets/216154eb-a986-43dc-89bb-725a9732470c" />
 <img width="932" height="913" alt="Capture d&#39;écran 2025-11-07 103927" src="https://github.com/user-attachments/assets/e784dd54-d59f-497e-ba07-4b606e9a70e3" />
 <img width="931" height="954" alt="Capture d&#39;écran 2025-11-07 104011" src="https://github.com/user-attachments/assets/ea5f20ac-b186-4efb-81a2-d0d318eaa6bc" />
-
-<img width="948" height="949" alt="image" src="https://github.com/user-attachments/assets/0a34d7eb-a23c-4e1a-96e2-46f0dbbb4dc5" />
 <img width="939" height="934" alt="image" src="https://github.com/user-attachments/assets/0f00357f-30a2-436a-9dfa-09a968106058" />
 
 
