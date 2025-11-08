@@ -23,10 +23,11 @@ Response Types
 <img width="1600" height="711" alt="image" src="https://github.com/user-attachments/assets/6ee3e1be-f145-43bd-857f-fa4d143e341e" />
 <img width="1600" height="795" alt="image" src="https://github.com/user-attachments/assets/11477fd5-2847-44c7-a8bd-cc7c6ad05236" />
 <img width="933" height="989" alt="image" src="https://github.com/user-attachments/assets/9bfcd822-1f14-45fd-9aa8-b1a5d46b495a" />
-<img width="947" height="960" alt="image" src="https://github.com/user-attachments/assets/cc5f44aa-536e-4cc4-b2a3-62aecb51f62f" />
+<img width="948" height="949" alt="image" src="https://github.com/user-attachments/assets/0a34d7eb-a23c-4e1a-96e2-46f0dbbb4dc5" />
 <img width="1906" height="950" alt="Capture d&#39;écran 2025-11-06 235102" src="https://github.com/user-attachments/assets/6078620a-8d1d-469c-9737-3213a58b3d09" />
 
 
+-----------------------------------
 
 Discord configurations : 
 <img width="940" height="955" alt="Capture d&#39;écran 2025-11-07 103823" src="https://github.com/user-attachments/assets/9770c108-7d99-4e8a-93b6-8b52099f181c" />
@@ -36,7 +37,7 @@ Discord configurations :
 <img width="939" height="934" alt="image" src="https://github.com/user-attachments/assets/0f00357f-30a2-436a-9dfa-09a968106058" />
 
 
-
+----------------------------------
 Slack configurations : 
 <img width="956" height="812" alt="image" src="https://github.com/user-attachments/assets/5431eca8-bd1d-40f1-a661-a88b7d19243e" />
 <img width="952" height="925" alt="image" src="https://github.com/user-attachments/assets/193264d8-0971-483f-b9e0-1d5a44c4db73" />
